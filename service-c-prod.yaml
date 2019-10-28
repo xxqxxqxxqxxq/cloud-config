@@ -1,0 +1,7 @@
+car:
+    brand: bwm
+    type: X5
+    price: 50000$
+    color: red
+    categroy: suv
+    
